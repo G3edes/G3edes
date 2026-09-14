@@ -2,73 +2,72 @@
 
 # Gabriel Silva Guedes
 
-**Technical Support Specialist | Software Developer in Training**
+Technical Support Specialist | Software Developer in Training
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=001F3F&center=true&vCenter=true&width=600&lines=Transforming+Knowledge+into+Code;Building+Scalable+Solutions;Passionate+About+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Transforming+Knowledge+into+Code;Building+Scalable+Solutions;Passionate+About+Technology" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📋 Sobre Mim
+<div style="background-color: #0d1b2a; border-left: 4px solid #00BFFF; padding: 20px; margin: 20px 0; border-radius: 6px;">
 
-```
-🎯 Profissional focado em excelência técnica e desenvolvimento de software
-📍 Localização: Brasil | 🌐 Idiomas: Português (Nativo), English (Básico)
-💼 Experiência: Suporte Técnico N1/N2 | 🎓 Estudante de Sistemas de Informação
-🚀 Objetivo: Transição para Desenvolvimento Full-Stack
-```
+## Sobre Mim
+
+Profissional focado em excelência técnica e desenvolvimento de software
+
+Localização: Brasil | Idiomas: Português (Nativo), English (Básico)
+
+Experiência: Suporte Técnico N1/N2 | Estudante de Sistemas de Informação
+
+Objetivo: Transição para Desenvolvimento Full-Stack
 
 Trabalhando na **Inova Tecnologia** com suporte a soluções corporativas de ponta. Formação técnica em ADS pelo SENAI e atualmente cursando Bacharelado em Sistemas de Informação pela UNINOVE.
 
+</div>
+
 ---
 
-## 🏢 Experiência Profissional
+## Experiência Profissional
 
-<table>
-<tr>
-<td width="50%">
+<div style="background-color: #0d1b2a; border: 1px solid #00BFFF; padding: 20px; margin: 20px 0; border-radius: 6px;">
 
-### 🔧 Estagiário de Suporte Técnico
+### Estagiário de Suporte Técnico
 **Inova Tecnologia** | 2026 – Presente
 
 **Principais Atribuições:**
-- Suporte para **Secullum Ponto Web**
-- Administração de **InovaAcess**
-- Gerenciamento de **Plataforma Carteirinha**
+- Suporte para Secullum Ponto Web
+- Administração de InovaAcess
+- Gerenciamento de Plataforma Carteirinha
 - Diagnóstico de incidentes
 - Documentação técnica
 
-</td>
-<td width="50%">
-
-### 📊 Responsabilidades
+**Responsabilidades:**
 - N1/N2 Troubleshooting
 - Atendimento ao cliente corporativo
 - Criação de materiais de treinamento
 - Resolução em tempo real
 - Suporte multi-plataforma
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
-<div align="center">
+<div style="background-color: #0d1b2a; border: 1px solid #00BFFF; padding: 20px; margin: 20px 0; border-radius: 6px;">
 
-| Grau | Instituição | Status | Período |
-|------|------------|--------|---------|
-| 🎓 Bacharelado em Sistemas de Informação | **UNINOVE** | 🔄 Em Andamento | 2026 – Presente |
-| 📚 Análise e Desenvolvimento de Sistemas | **SENAI Jandira** | ✅ Concluído | 2024 – 2025 |
+**Bacharelado em Sistemas de Informação**
+UNINOVE | 2026 – Presente
+
+**Análise e Desenvolvimento de Sistemas**
+SENAI Jandira | 2024 – 2025 ✓ Concluído
 
 </div>
 
 ---
 
-## 💻 Linguagens & Tecnologias
+## Linguagens & Tecnologias
 
 ### Backend Development
 <div align="center">
@@ -103,48 +102,27 @@ Trabalhando na **Inova Tecnologia** com suporte a soluções corporativas de pon
 
 ---
 
-## 📊 Estatísticas GitHub
+## Projetos em Desenvolvimento
 
-<div align="center">
+<div style="background-color: #0d1b2a; border: 1px solid #00BFFF; padding: 20px; margin: 20px 0; border-radius: 6px;">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G3edes&show_icons=true&theme=midnight&hide_border=true&bg_color=001F3F&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF)](https://github.com/G3edes)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G3edes&layout=compact&theme=midnight&hide_border=true&bg_color=001F3F&title_color=00BFFF&text_color=FFFFFF)](https://github.com/G3edes)
-
-</div>
-
----
-
-## 🚀 Projetos em Desenvolvimento
-
-<table>
-<tr>
-<td>
-
-### 📱 Portfolio Técnico
+### Portfolio Técnico
 Portfólio demonstrando full-stack skills com projetos reais.
 
-**Stack:** React, Node.js, MongoDB
-
-</td>
-<td>
-
-### 🧠 Sistema de Conhecimento
-Exploração de RAG e assistentes inteligentes para suporte técnico.
-
-**Stack:** Python, AI/ML, APIs
-
-</td>
-</tr>
-</table>
+Stack: React, Node.js, MongoDB
 
 ---
 
-## 📞 Conecte-se Comigo
+### Sistema de Conhecimento
+Exploração de RAG e assistentes inteligentes para suporte técnico.
+
+Stack: Python, AI/ML, APIs
+
+</div>
+
+---
+
+## Conecte-se Comigo
 
 <div align="center">
 
@@ -156,23 +134,10 @@ Exploração de RAG e assistentes inteligentes para suporte técnico.
 
 ---
 
-## 📈 Atividade Recente
-
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=G3edes&theme=github-dark&hide_border=true&bg_color=001F3F&color=00BFFF&point=FFFFFF&area_color=003d7a)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 **"Code Today, Lead Tomorrow"**
+"Code Today, Lead Tomorrow"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=G3edes&color=001F3F&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/G3edes?style=flat-square&logo=github&color=001F3F)](https://github.com/G3edes)
-
-**Last Updated:** September 2024
 
 </div>
